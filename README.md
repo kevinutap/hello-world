@@ -1,4 +1,2 @@
 # hello-world
 this is my first repository
-this is my first edit - readme-edits :)
-one more time here.
